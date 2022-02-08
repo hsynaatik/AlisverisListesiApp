@@ -14,6 +14,7 @@
 		27C1BF3127B1163500EBC733 /* Al_sverisListesi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 27C1BF2F27B1163500EBC733 /* Al_sverisListesi.xcdatamodeld */; };
 		27C1BF3327B1163800EBC733 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27C1BF3227B1163800EBC733 /* Assets.xcassets */; };
 		27C1BF3627B1163800EBC733 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27C1BF3427B1163800EBC733 /* LaunchScreen.storyboard */; };
+		27C1BF3E27B11D1100EBC733 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C1BF3D27B11D1100EBC733 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		27C1BF3227B1163800EBC733 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27C1BF3527B1163800EBC733 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27C1BF3727B1163800EBC733 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27C1BF3D27B11D1100EBC733 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				27C1BF2627B1163500EBC733 /* AppDelegate.swift */,
 				27C1BF2827B1163500EBC733 /* SceneDelegate.swift */,
 				27C1BF2A27B1163500EBC733 /* ViewController.swift */,
+				27C1BF3D27B11D1100EBC733 /* DetailsViewController.swift */,
 				27C1BF2C27B1163500EBC733 /* Main.storyboard */,
 				27C1BF3227B1163800EBC733 /* Assets.xcassets */,
 				27C1BF3427B1163800EBC733 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				27C1BF2727B1163500EBC733 /* AppDelegate.swift in Sources */,
 				27C1BF3127B1163500EBC733 /* Al_sverisListesi.xcdatamodeld in Sources */,
 				27C1BF2927B1163500EBC733 /* SceneDelegate.swift in Sources */,
+				27C1BF3E27B11D1100EBC733 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
